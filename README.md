@@ -1,5 +1,6 @@
 # News App
 As a user please register using the option when you run the app, please note that this application can store only one user at a time as localStorage is used in the app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
