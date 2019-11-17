@@ -1,4 +1,4 @@
-# Hush App
+# News App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -9,7 +9,7 @@ You need to have nodejs installed on your machine. If you don’t, please go to 
 
 ## How to run the App
 Simply go to the directory name hush1_app on your local machine.
-### `cd hush1_app`
+### `cd newsapp2`
 
 In the project directory, you can run:
 ### `npm start`
